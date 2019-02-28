@@ -1,5 +1,4 @@
 # thinkful-git-ws
-Change to show changes
 
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
