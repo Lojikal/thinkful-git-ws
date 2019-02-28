@@ -1,4 +1,6 @@
 # thinkful-git-ws
+Change to show changes
+
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
